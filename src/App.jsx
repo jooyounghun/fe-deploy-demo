@@ -15,9 +15,8 @@ display: 'grid',
 placeItems: 'center',
 }}
 >
-<section style={{ textAlign: 'center' }}> <h1>🚀 FE Deploy Demo</h1> <p>
-환경 변수: <code>VITE_DEPLOY_TARGET</code> </p> <p>
-현재 배포 대상:{' '}
+<section style={{ textAlign: 'center' }}> <h1>FE Deploy Demo</h1>
+<p> 현재 배포 대상:{' '}
 {env.vercel && 'Vercel '}
 {env.netlify && 'Netlify '}
 {!env.vercel && !env.netlify && '로컬/기타'} </p>
