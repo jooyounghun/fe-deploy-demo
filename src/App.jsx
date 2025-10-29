@@ -24,5 +24,3 @@ placeItems: 'center',
 src/App.jsx 수정 → Git push → 자동 배포 변화를 확인해보세요. </p> </section> </main>
 ) 
 }
-
-
