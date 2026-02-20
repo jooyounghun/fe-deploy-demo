@@ -1,1 +1,1 @@
-test
+goorm test deploy
