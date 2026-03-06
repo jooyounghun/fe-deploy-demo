@@ -1,1 +1,1 @@
-goorm test deploy
+test deploy CI/CD
